@@ -29,7 +29,7 @@ To build and run this project, you need:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/sorting-benchmark.git
+git clone https://github.com/nithin0306/sorting-benchmark.git
 cd sorting-benchmark
 ```
 ---
